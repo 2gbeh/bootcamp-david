@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+@media only screen and (max-width:600px) {
+  .wrap {
+    width:100%;}    
+  .typeface {
+    font-size: 20px;
+  }    
+  main .wall {
+    height: 12em;
+  } 
+  main .tiles section {
+    padding: 15px;
+  }  
+  main .tiles .name {
+    font-size: 14px;
+    line-height: 21px;
+  }
+  main .author p {
+    font-size: 14px;
+  }  
+  main .ribbon address {
+    font-size: 14px;
+  }   
+  main .brand img {
+    width: 60px;
+  }  
+  footer {
+    font-size: 13px;  
+  }
+}	

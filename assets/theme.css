@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+main .ribbon { 
+  background-color: #1873e7;
+}
+.typeface a, 
+main .tiles .price {
+  color: #1873e7;
+}  
+
+
+
+main .author h3 {
+    color: #fab104;  
+}
