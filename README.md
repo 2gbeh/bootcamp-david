@@ -1,3 +1,3 @@
 # bootcamp-david
 
-Data Analytics fundamentals with R
+Data Analysis fundamentals with R
