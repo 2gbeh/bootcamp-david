@@ -1,2 +1,3 @@
 # bootcamp-david
-Computer Programming Bootcamp
+
+Database fundamentals with PostgreSQL
