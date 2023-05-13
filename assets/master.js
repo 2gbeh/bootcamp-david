@@ -100,7 +100,7 @@ function main() {
   buf = '';
   li = [
     ['office','Office Fundamentals (Word, Excel & PowerPoint)'],
-    ['excel','Excel for Data Analysis (with R Progamming)'],
+    ['excel','Excel for Data Analysis (with SQL)'],
     ['sql','SQL Server - Database Administrator (DBA)'],
     ['access','Access - Enterprise Application Software (EAS)'],
     ['azure','Azure - Cloud Applicaiton Fundamentals']
