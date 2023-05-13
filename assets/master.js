@@ -23,7 +23,7 @@ function main() {
       buf += '<div class="thumb" style="' + img + '">&nbsp;</div>';
       buf += '<div class="name">' + mod + ' Software Development</div>';
       buf += '<div class="weeks">3 months training</div>';
-      buf += '<div class="price"><b>&#8358; 40,000</b></div>';
+      buf += '<div class="price"><b>&#8358; 90,000</b></div>';
       buf += '<div class="action"><a href="https://wa.me/2348169960927" target="_new">Register</a></div>';
       buf += '</td>';
   } 
@@ -45,7 +45,7 @@ function main() {
       buf += '<div class="thumb" style="' + img + '">&nbsp;</div>';
       buf += '<div class="name">Web Deisgn & Development with ' + mod + '</div>';
       buf += '<div class="weeks">3 months training</div>';
-      buf += '<div class="price"><b>&#8358; 40,000</b></div>';
+      buf += '<div class="price"><b>&#8358; 90,000</b></div>';
       buf += '<div class="action"><a href="https://wa.me/2348169960927" target="_new">Register</a></div>';
       buf += '</td>';
   } 
@@ -68,7 +68,7 @@ function main() {
       buf += '<div class="thumb" style="' + img + '">&nbsp;</div>';
       buf += '<div class="name">Web Application Development using ' + mod + ' Framework</div>';
       buf += '<div class="weeks">4 months training</div>';
-      buf += '<div class="price"><b>&#8358; 50,000</b></div>';
+      buf += '<div class="price"><b>&#8358; 120,000</b></div>';
       buf += '<div class="action"><a href="https://wa.me/2348169960927" target="_new">Register</a></div>';
       buf += '</td>';
   } 
@@ -91,7 +91,7 @@ function main() {
       pfx = i < 2? '<br/>(Cross-platform)': ' with ' + li[i][2];
       buf += '<div class="name">' + mod +' App Development' + pfx + '</div>';
       buf += '<div class="weeks">4 months training</div>';
-      buf += '<div class="price"><b>&#8358; 60,000</b></div>';
+      buf += '<div class="price"><b>&#8358; 150,000</b></div>';
       buf += '<div class="action"><a href="https://wa.me/2348169960927" target="_new">Register</a></div>';
       buf += '</td>';
   } 
@@ -113,7 +113,7 @@ function main() {
       buf += '<div class="thumb" style="' + img + '">&nbsp;</div>';
       buf += '<div class="name">Microsoft ' + mod + '</div>';
       buf += '<div class="weeks">3 months training</div>';
-      buf += '<div class="price"><b>&#8358; 30,000</b></div>';
+      buf += '<div class="price"><b>&#8358; 60,000</b></div>';
       buf += '<div class="action"><a href="https://wa.me/2348169960927" target="_new">Register</a></div>';
       buf += '</td>';
   } 
@@ -138,7 +138,7 @@ function main() {
       buf += '<div class="thumb" style="' + img + '">&nbsp;</div>';
       buf += '<div class="name">' + mod + '</div>';
       buf += '<div class="weeks">3 months training</div>';
-      buf += '<div class="price"><b>&#8358; 30,000</b></div>';
+      buf += '<div class="price"><b>&#8358; 60,000</b></div>';
       buf += '<div class="action"><a href="https://wa.me/2348169960927" target="_new">Register</a></div>';
       buf += '</td>';
   } 
